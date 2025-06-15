@@ -1,5 +1,5 @@
 # alltech-projects
-📱 Tous les projets  d'Alltech
+📱 Tous les projets  d'Alltech (App mobile)
 # 🚀 Projets de l'entreprise Alltech
 
 Bienvenue sur la vitrine des projets réalisés par **Alltech**, une entreprise numérique spécialisée dans :
