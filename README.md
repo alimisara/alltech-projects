@@ -14,8 +14,9 @@ Bienvenue sur la vitrine des projets réalisés par **Alltech**, une entreprise 
 
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
+| [alltech-healthmental](https://github.com/alimisara/app-ui-healthmental) | UI App d'une application de suivi de santé mentale | Flutter |
 | [alltech-vidyou](https://github.com/ton-compte/alltech-vidyou) | Téléchargement de vidéos depuis TikTok, YouTube, Reels | Flutter, yt-dlp |
-| [alltech-phone-code](https://github.com/ton-compte/alltech-mobile-code-master) | Application d’astuces & codes USSD au Bénin | Flutter, |
+| [alltech-phone-code](https://github.com/ton-compte/alltech-mobile-code-master) | Application d’astuces & codes USSD au Bénin | Flutter |
 
 ---
 
